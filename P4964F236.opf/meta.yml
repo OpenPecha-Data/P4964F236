@@ -1,0 +1,177 @@
+id: P4964F236
+initial_creation_type: input
+source_metadata:
+  title: Biography Series
+  language: es
+  description: 'Translations of various namthar (rnam thar) or biographical and autobiographical
+    works:'
+  volume:
+    81485d36f4704c09adf584688e5f1307:
+      title: 'Radiant Sunlight of the Victors’ Teachings: A Brief, First-Hand Account
+        of the Liberating Life-Story of the Great Emanated Treasure Revealer'
+      parent: Autobiography
+    f427b777fe1947e39864ebee62445fa7:
+      title: A Short Story of the Life and Liberation of Jamyang Khyentse Chökyi Lodrö
+      parent: Autobiography
+    33d727dfa33e44ddb212ea2da10c84e6:
+      title: 'The Play of Illusion: An Autobiography'
+      parent: Autobiography
+    d0dec471dc054a44839147e72f8f84c0:
+      title: A Brief Autobiographical Sketch
+      parent: Autobiography
+    112baab8ae4c4f649f38ccf7e095c2dd:
+      title: 'The Excellent Path of Devotion: An Abridged Story of a Mendicant’s Experiences
+        in Response to Questions from Vajra Kin'
+      parent: Autobiography
+    a25e0452afb746c08d699af472457640:
+      title: 'The Quintessence of Marvellous Nectar: A Prayer Based on the Liberational
+        Life of the Gentle Protector Guru'
+      parent: Biographical Prayer
+    00f069b629ef470fba6d90516ab4a4a5:
+      title: 'The Hook Which Invokes the Blessings: A Supplication to the Life and
+        Liberation of Rigdzin Jalü Dorje'
+      parent: Biographical Prayer
+    1d91464050cb4446a2de380638755fac:
+      title: The Seeds of Faith, A Prayer to the Vidyādhara and Great Tertön Lerab
+        Lingpa
+      parent: Biographical Prayer
+    194ec76c64114787b4d7db2bfe2c16a0:
+      title: 'The Melodious Sound of Gathering Auspiciousness: A Prayer Based on the
+        Liberational Life of the Omniscient Jamyang Khyentse Wangpo'
+      parent: Biographical Prayer
+    68b7c6b4e2e34ed395e4570e752d93db:
+      title: The Prayer of the Tenth Days in Guru Rinpoche’s Life Story entitled ‘The
+        Nucleus of Blessings’
+      parent: Biographical Prayer
+    4d1653e99e6e421a8030c2fef63c38d6:
+      title: 'The Tambura’s Yearning Song of Devotion: A Prayer Summarizing Khandro
+        Yeshe Tsogyal’s Life and Liberation'
+      parent: Biographical Prayer
+    ccce9556513c45c6bc5e330b8beebfea:
+      title: 'The Fresh Utpala: A Prayer to the Great Learned Teacher and Vajra-Holder
+        Jamyang Khyenrab Tayé'
+      parent: Biographical Prayer
+    09631e614b8b43ada852f20ba32349d8:
+      title: 'A Beautiful and Wondrous Udumbara Garland: A Supplication and Summary
+        of the Chronicles of Padma, The Life and Liberation of the Precious Guru of
+        Uḍḍiyāna'
+      parent: Biographical Prayer
+    5d0b92957d6f4917b61fcbc2f560fbd6:
+      title: A Prayer Recalling the Life and Liberation of the Great Perfection Adept
+        Rangjung Dorje (‘Naturally Arisen Vajra’), Jigme Lingpa
+      parent: Biographical Prayer
+    71d8b4b98aa84332a98968a434eb487b:
+      title: A Short Prayer Based on the Life and Liberation of the All-Knowing, All-Seeing
+        Jamyang Khyentse Wangpo
+      parent: Biographical Prayer
+    025ea8b5933744a2add124a55dd9b985:
+      title: Prayer Recalling the Life and Liberation of the Mañjunātha Guru
+      parent: Biographical Prayer
+    066442046d2c4358bbdf4fcb751b5534:
+      title: A Prayer Recalling the Life and Liberation of the Precious Master Padmasambhava
+      parent: Biographical Prayer
+    d267a123f454444eb3dba2304cda647c:
+      title: 'Cloud Banks of Blessings: A Prayer Recounting the Eleven Deeds of the
+        Life and Liberation of the Guru from Uḍḍiyāna'
+      parent: Biographical Prayer
+    dd21962b24914e0bbd2a3b9b2e4bb989:
+      title: A Prayer Recounting the Lives and Liberation of the Exalted Ḍākinī Mandāravā
+      parent: Biographical Prayer
+    8609d9f21dfd4df29805962b763d486b:
+      title: 'Gateway for the Faithful: A Supplication Recalling the Lives and Liberation
+        of Kyabje Trulshik Rinpoche, Ngawang Chökyi Lodrö'
+      parent: Biographical Prayer
+    cd0efb45c2dd42989a92875c17c72dff:
+      title: 'The Hook of Blessing and Compassion: An Invocation Recalling Briefly
+        the Life and Liberation of the Drukchen Drodül Pawo Dorje, My Loving Supreme
+        Guru'
+      parent: Biography
+    136fee12faa64a73b532c83f06841a73:
+      title: Biography of Jamgön Kongtrul Lodrö Thaye
+      parent: Biography
+    984135bfada0433ca16c716cc0c3c097:
+      title: Biography of Jamyang Khyentse Wangpo
+      parent: Biography
+    87686c61c01a46bcbba6230933f27035:
+      title: Biography of Patrul Rinpoche
+      parent: Biography
+    3fedcecf68994a13a3f42be02d23567f:
+      title: Biography of Shechen Gyaltsab Gyurme Pema Namgyal
+      parent: Biography
+    da3ff8f202da404d955a18c6b7f7b8a9:
+      title: Brief Biography of Drakkar Lobzang Palden
+      parent: Biography
+    629587915002437fae21460738093792:
+      title: Brief Biography of Kharlek Tulku Pema Kunzang Rangdrol
+      parent: Biography
+    0e80644563bc46b9bdc6d364f42c97c0:
+      title: Brief Biography of Tāranātha
+      parent: Biography
+    c42a07bd5aa34fd1b42b323c175e9f2b:
+      title: 'The Wish-Fulfilling Tree: The Life Story of the Master of Uḍḍiyāna
+        as found in Padmasambhava’s Sevenfold Cycle of Profundity'
+      parent: Biography
+    2fb2450ee79d498390cae03746f80b31:
+      title: 'Wondrous Light of Lunar Nectar: The Biography of Chatral Kunga Palden,
+        a Yogin of the Supreme Vehicle'
+      parent: Biography
+    ecc02ae8b0044abdbc44c2c4bfa442bc:
+      title: In Praise of Sönam Palge
+      parent: Biography
+    09786a1255434d158e0d60a0ac8498ac:
+      title: The Biography of the Great Orgyen that Naturally Liberates On Sight
+      parent: Biography
+    bf7058ad0a974fa98a81a6278f698a8f:
+      title: The Concise Benefits of the Festival of the Tenth Day
+      parent: Biography
+    9dc7889495e54aa1a4836c522a93cbe7:
+      title: 'Precise Discernment of Dharmas: A Catalogue of the Complete Collected
+        Works of the Omniscient King of Dharma, Rigdzin Jigme Lingpa'
+      parent: Biography
+    ed1d8e06203445748b04d4e93aa6c346:
+      title: 'A Bouquet of Uḍumbara Flowers: An Explanation of the Tenth Day'
+      parent: Biography
+    5fddfb96c8664de789a4673f86fee042:
+      title: 'A Garland of Vajra Gems: The Life and Liberation of the Guru'
+      parent: Biography
+    892fb15ff9884d2ab1ab6dd60a92a28b:
+      title: The Life and Liberation of Padmākara, the Second Buddha from A Precious
+        Garland of Lapis Lazuli
+      parent: Biography
+    52b54d203115454688c062e51bafabd1:
+      title: Brief Biography of Gyurme Jamyang Tenpel from Supplementary Biographies
+        for the Lineage of the Ḍākinī’s Whispered Transmission of Secret Conduct
+      parent: Biography
+    5aa2d88ab5f94bac8c53bb4c08b9e123:
+      title: Notes on Chögyal Puntsok Rigdzin and Lhatsün Namkha Jigme’s Incarnations
+      parent: Biography
+    b2a959e053a14f67904523f971f37a4f:
+      title: The Life of Khenpo Pema Vajra
+      parent: Biography
+    e20929c1acc649ad859b8d71d3e89182:
+      title: Biography of Böpa Tulku Dongak Tenpé Nyima
+      parent: Biography
+    109eae160b394c2da3d73f907af8dd2b:
+      title: 'Light on the Path of Liberation: The Life of the Second Buddha Vasubandhu'
+      parent: Biography
+    7ceb37ad69f64bc7a3864e8c4a58a9fb:
+      title: Biography of Dzogchen Khenchen Abu Lhagang
+      parent: Biography
+    1a53d786212b401bb681e15db858d0bb:
+      title: A Concise History of Orgyen Padma’s Enlightened Deeds
+      parent: Biography
+    86c4c1320bcc4963bcf1716453f71f6a:
+      title: The Life of Jamyang Khyentse Chökyi Lodrö
+      parent: Biography
+    c82780b1608b46a5888c014492c8da4e:
+      title: The Life of Jamyang Khyentse Wangpo
+      parent: Biography
+    f28d66ab60e54c4cb8c09779a2a8495e:
+      title: 'Three Reasons for Confidence: A Work Telling the Life and Liberation
+        Story of the Great Master Padmākara'
+      parent: Biography
+    71a55747730d48599acb68216995a53c:
+      title: A Tribute to Tsewang Paljor
+      parent: Obituary
+created_at: '2022-03-01T03:00:17.842364'
+last_modified_at: '2022-03-01T03:00:17.842367'
